@@ -7,3 +7,4 @@ Code used for Neetcode 150
 | Contains Duplicate | Easy | 2025/12/23 |
 | Valid Anagram | Easy | 2026/1/12 |
 | Two Sum | Easy | 2026/1/12 |
+| Group Anagrams | Medium | 2026/1/22 |
