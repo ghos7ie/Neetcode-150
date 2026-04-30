@@ -41,3 +41,4 @@ Code used for Neetcode stuff
 | Same Binary Tree | Trees | Easy | 2026/04/26 | 
 | Subtree of Another Tree | Trees | Easy | 2026/04/27 | 
 | Lowest Common Ancestor | Trees | Medium | 2026/04/28 | 
+| Binary Tree Level Order Traversal | Trees | Medium | 2026/04/30 | 
